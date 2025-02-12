@@ -1,0 +1,30 @@
+<resources>
+<!--Имя приложения-->
+    <string name="app_name">Open Stable Diffusion</string>
+<!--Генерация-->
+    <string name="cancel">Отмена</string>
+    <string name="waitTime">Осталось до получения: </string>
+<!--Отображение изображения-->
+    <string name="seedUsed">Используется номер: </string>
+    <string name="regenerate">Регенерация</string>
+    <string name="generateNew">Сгенерировать новое</string>
+    <string name="useInit">Задать как начальный</string>
+    <string name="download">Скачать</string>
+<!--Параметры-->
+    <string name="prompt">Запрос</string>
+    <string name="promptExample">Пёс, играющий на укулеле</string>
+    <string name="negative">Негативный запрос</string>
+    <string name="negativeExample">Кот, играющий на гитаре</string>
+    <string name="height">Высота</string>
+    <string name="width">Ширина</string>
+    <string name="steps">Генерация шагов</string>
+    <string name="seed">Генерация номера</string>
+    <string name="promptStrength">Сила запроса</string>
+    <string name="imageStrength">Сила изображения</string>
+    <string name="apikey">API-ключ для AI Horde</string>
+    <string name="defaultApikey">0000000000</string>
+    <string name="infoApikey"><u>Что это такое?</u></string>
+    <string name="nsfw">Разрешить NSFW</string>
+    <string name="censor">Цензура NSFW</string>
+    <string name="generate">Сгенерировать</string>
+</resources>
